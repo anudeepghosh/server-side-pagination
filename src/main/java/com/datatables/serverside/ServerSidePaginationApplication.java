@@ -15,6 +15,7 @@ public class ServerSidePaginationApplication extends SpringBootServletInitialize
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServerSidePaginationApplication.class, args);
+		System.out.println("Application is running..");
 	}
 
 }
